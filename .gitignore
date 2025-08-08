@@ -166,3 +166,5 @@ mlruns
 .virtual_documents
 mlartifacts
 .vscode/
+dagshub-env/
+*.swp
